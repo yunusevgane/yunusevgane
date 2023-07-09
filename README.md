@@ -2,9 +2,6 @@
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yunusevgane&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yunusevgane&layout=compact&langs_count=8&card_width=600&theme=gruvbox&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yunusevgane&theme=gruvbox&hide_border=true)<br/>
 
