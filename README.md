@@ -5,7 +5,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yunusevgane&theme=gruvbox&hide_border=true)<br/>
 
-
+![](https://raw.githubusercontent.com/yunusevgane/yunusevgane/67be28bc6167cf354ad8d8de536a55356b49eb6f/github.svg)<br/>
 
 
 # 💻 Tech Stack:
@@ -24,6 +24,12 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <br/>
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
